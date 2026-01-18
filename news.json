@@ -6,7 +6,8 @@
       "t|Hello World!",
       "t|This is a test!",
       "i|111249895405209"
-    ]
+    ],
+    "published": "2026/01/18"
   },
   {
     "name": "test again",
@@ -15,6 +16,7 @@
       "t|Hello World!",
       "t|This is a test!",
       "i|111249895405209"
-    ]
+    ],
+    "published": "2026/01/18"
   }
 ]
