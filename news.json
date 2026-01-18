@@ -7,5 +7,14 @@
       "t|This is a test!",
       "i|111249895405209"
     ]
+  },
+  {
+    "name": "test again",
+    "icon": 0,
+    "content": [
+      "t|Hello World!",
+      "t|This is a test!",
+      "i|111249895405209"
+    ]
   }
 ]
